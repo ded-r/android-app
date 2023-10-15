@@ -15,4 +15,8 @@
     <string name="login_pass">Password</string>
     <string name="login_btn">Login</string>
     <string name="login_redirect">Don\'t have an account? "\n" Register here.</string>
+    <string name="reg_title">Registration</string>
+    <string name="reg_name">Full Name</string>
+    <string name="reg_btn">Register</string>
+    <string name="reg_redirect">Already have an account? "\n" Log in here</string>
 </resources>
